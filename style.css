@@ -462,3 +462,33 @@ nav>h1{
     margin:25% 0 0 23%;
     fill:#ffffff;
 }
+footer{
+    height:13vh;
+    width:100%;
+    background-color: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.copyright{
+    height:30%;
+    width:30%;
+    padding:2.3% 0 0 40%;
+    display:flex;
+}
+.copyright-img{
+    height:90%;
+    width:5%;
+    overflow:hidden;
+}
+.copyright-img>img{
+    height:100%;
+    width:100%;
+}
+.copyright-paragraph{
+    height:100%;
+    width:95%;
+}
+.copyright-paragraph>p{
+    font:.9rem "Open-sans",sans-serif ;
+    margin-top: .5%;
+    margin-left: 2%;
+}
